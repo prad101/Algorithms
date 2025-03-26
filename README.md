@@ -1,16 +1,5 @@
 # ks-cs6045
 
-#############################
-Member 1: Sai Sruti Dandibhatla <sdandib1@students.kennesaw.edu>
-Member 2: Ryan Howington <rhowing4@students.kennesaw.edu>
-Member 3: Pradyumna Kumar <pkumar7@students.kennesaw.edu>
-
-Class: CS6045 - Advanced Algorithms
-Term: Spring 2025
-Assignment #: 1
-#############################
-
-
 # Modified Gale-Shapley Algorithm for Hospital-Student Matching
 
 ## Overview
