@@ -19,14 +19,13 @@ Traditional Gale-Shapley algorithm assumes equal numbers of participants in both
 ## Implementation Details
 
 ### Input Format
-- CSV file or Text file with two sections:
-1st in order
-  - Hospital's name, capacity and preferences
-2nd in order
-  - Resident preferences
-- Separated by empty line
-- Slot should be given in digits
-The input should be in the order of Hospital name, Slots and Hospital Preference List with a blank line in between and then the Resident list in the order of Resident name and Resident’s Preference List.
+- CSV file or Text file with two sections (refer input_data for samples):
+1. Hospital data
+  - Hospital name, slots and hospital's preferences of residents
+2. Resident data
+  - Resident name, resident's preferences of hospitals
+
+The input should be in the order of Hospital name, slots (vacancy) and Hospital preference List with a blank line in between and then the Resident list in the order of Resident name and Resident’s Preference List.
 
 ## Running the code
 - Add .csv/.txt file in input_data folder
