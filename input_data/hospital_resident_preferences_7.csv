@@ -1,0 +1,13 @@
+Mercy,4,Jimi-Smith,Frank,Solomon,Kay Cee,,,
+Grady,6,Jimi-Smith,Bob,Mary,Kay Cee,Solomon,Darvius,Frank
+St.Thomas,2,Jimi-Smith,Bob,,,,,
+Sacred Heart,8,Jimi-Smith,Solomon,Kay Cee,Frank,Bob,,
+De la Ruiz,1,Jimi-Smith,Bob,Mary,Kay Cee,Solomon,Frank,Darvius
+,,,,,,,,
+Mary,Mercy,Grady,St.Thomas,Sacred Heart,De la Ruiz,,,
+Bob,Mercy,St.Thomas,De la Ruiz,Sacred Heart,Grady,,,
+Jimi-Smith,Mercy,St.Thomas,De la Ruiz,Sacred Heart,Grady,,,
+Kay Cee,Grady,St.Thomas,Mercy,Sacred Heart,De la Ruiz,,,
+Solomon,Grady,Mercy,St.Thomas,Sacred Heart,De la Ruiz,,,
+Frank,De la Ruiz,Sacred Heart,St.Thomas,Grady,Mercy,,,
+Darvius,Sacred Heart,De la Ruiz,Mercy,Grady,St.Thomas,,,
