@@ -1,5 +1,3 @@
-# ks-cs6045
-
 # Modified Gale-Shapley Algorithm for Hospital-Student Matching
 
 ## Overview
