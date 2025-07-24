@@ -1,13 +1,13 @@
 # Modified Gale-Shapley Algorithm for Hospital-Student Matching
 
 ## Overview
-This project implements a modified version of the Gale-Shapley algorithm to handle hospital-student matching with unequal numbers of participants and multiple capacity constraints.
+The Gale-Shapley algorithm identifies a stable pairing between hospitals and students. It operates by having hospitals sequentially extend proposals to their most favored students who have not yet received a proposal. If a student is either unmatched or prefers the new hospital over their existing match, they accept the proposal; if not, they decline it. The algorithm concludes when all hospitals have either made proposals or faced rejections, leading to a stable matching.
 
 ## Problem Statement
 Traditional Gale-Shapley algorithm assumes equal numbers of participants in both groups, with one-to-one matching. However, real-world hospital-student matching often involves:
 - More graduating students than available hospital positions
 - Hospitals with multiple residency slots
-- Need to fill all available hospital positions optimally
+- Fill all available hospital positions optimally
 
 ## Features
 - Handles unequal numbers of students and hospitals
