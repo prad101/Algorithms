@@ -46,6 +46,6 @@ Example: outline = [(6, 1) , (8, 3) , (6, 5) , (4, 6) , (2, 9) , (7, 11) , (0, 1
 
 
 ## Team members
-Ryan Howington - rhowing4@students.kennesaw.edu
-Sai Sruti Dandibhatla - sdandib1@students.kennesaw.edu
-Pradyumna Kumar - pkumar7@students.kennesaw.edu
+- Ryan Howington - rhowing4@students.kennesaw.edu
+- Sai Sruti Dandibhatla - sdandib1@students.kennesaw.edu
+- Pradyumna Kumar - pkumar7@students.kennesaw.edu
